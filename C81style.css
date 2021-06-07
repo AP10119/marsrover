@@ -1,0 +1,17 @@
+
+h1
+{
+	color: rgb(255, 255, 255); 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("mars.gif");
+	background-position: center;
+	background-size: cover;
+}
+
+#canvas10{
+	border-width: 5px;
+	background-color:aqua;
+	border-style: double;
+}
